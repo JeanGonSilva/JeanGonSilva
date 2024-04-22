@@ -2,10 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-gon%C3%A7alves-324984216/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE49TSeeX8nr7eJaJAj4BiA)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanGonSilva&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanGonSilva&show_icons=true&theme=dracula)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGonSilva&layout=compact)
 
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que eu Uso!
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />    
